@@ -22,7 +22,7 @@ package cn.edu.hit.ices.yang.problem;
  *     查找的数字介于最大值最小值之间但不存在于数组中
  * 3.特殊输入测试：
  *     输入空指针
- * 
+ *
  */
 public class TwoDArraySearch {
     public boolean Find(int[][] array, int target){
