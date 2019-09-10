@@ -15,14 +15,14 @@ package cn.edu.hit.ices.yang.problem;
  *     如果出了边界，则说明二维数组中不存在该整数。
  */
 public class TwoDArraySearch {
-    public boolean Find(int[][] array, int taget){
+    public boolean Find(int[][] array, int target){
         if(array != null || array.length > 0 || array[0].length > 0){
             int row = 0;
             int column = array[0].length - 1;
             while (row < array.length && column >= 0){
-                if(array[row][column] == taget){
+                if(array[row][column] == target){
                     return true;
-                }else if(array[row][column] > taget){
+                }else if(array[row][column] > target){
                     column --;
                 }else{
                     row ++;
