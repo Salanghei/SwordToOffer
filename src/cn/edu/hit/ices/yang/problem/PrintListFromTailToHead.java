@@ -5,6 +5,14 @@ import cn.edu.hit.ices.yang.model.ListNode;
 import java.util.ArrayList;
 import java.util.Stack;
 
+/**
+ * 题目描述：
+ * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList
+ *
+ * 解题思路：
+ * 方法一：利用三个指针把链表反转，关键是保存断开的节点
+ * 方法二：利用栈来实现
+ */
 public class PrintListFromTailToHead {
     // 方法一：利用三个指针把链表反转，关键是保存断开的节点
     public ArrayList<Integer> solution1(ListNode listNode) {
