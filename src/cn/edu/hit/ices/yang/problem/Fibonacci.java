@@ -10,7 +10,7 @@ package cn.edu.hit.ices.yang.problem;
  * f(n) = f(n-1) + f(n-2), n > 1
  * 可以直接使用递归的方法：
  *     if(n<=1) return n;
- *     else return Fibonacci(n-1)+Fibonacci(n-2);
+ *     else return Fibonacci(n-1) + Fibonacci(n-2);
  * 递归的方法可能会遇到Stack Overflow
  * 所以我们可以考虑用动态规划的方法来实现
  * 采用自底向上方法来保存了先前计算的值，为后面的调用服务
