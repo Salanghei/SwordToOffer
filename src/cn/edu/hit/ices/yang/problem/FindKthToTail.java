@@ -7,7 +7,7 @@ import cn.edu.hit.ices.yang.model.ListNode;
  * 输入一个链表，输出该链表中倒数第k个结点
  *
  * 解题思路：
- * 快慢指针：
+ * 快慢指针（Solution2）：
  * 快指针先往前走k步，注意判断边界，然后快慢一起走
  * 当快指针为null的时候，慢指针走到了倒数第k个节点
  */
