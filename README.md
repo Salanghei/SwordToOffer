@@ -23,4 +23,5 @@
 15. 青蛙跳台阶II：[JumpFloorII.java](/src/cn/edu/hit/ices/yang/problem/JumpFloorII.java)
 16. 矩形覆盖：[RectCover.java](/src/cn/edu/hit/ices/yang/problem/RectCover.java)
 17. 顺时针打印矩阵：[PrintMatrix.java](/src/cn/edu/hit/ices/yang/problem/PrintMatrix.java)
-18. 顺时针打印矩阵：[IsPopOrder.java](/src/cn/edu/hit/ices/yang/problem/IsPopOrder.java)
+18. 栈的压入、弹出序列：[IsPopOrder.java](/src/cn/edu/hit/ices/yang/problem/IsPopOrder.java)
+19. 包含min函数的栈：[MinStack.java](/src/cn/edu/hit/ices/yang/problem/MinStack.java)
