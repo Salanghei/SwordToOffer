@@ -22,3 +22,4 @@
 14. 青蛙跳台阶：[JumpFloor.java](/src/cn/edu/hit/ices/yang/problem/JumpFloor.java)
 15. 青蛙跳台阶II：[JumpFloorII.java](/src/cn/edu/hit/ices/yang/problem/JumpFloorII.java)
 16. 矩形覆盖：[RectCover.java](/src/cn/edu/hit/ices/yang/problem/RectCover.java)
+17. 顺时针打印矩阵：[PrintMatrix.java](/src/cn/edu/hit/ices/yang/problem/PrintMatrix.java)
