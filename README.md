@@ -30,3 +30,4 @@
 22. 从上往下打印二叉树：[PrintFromTopToBottom.java](/src/cn/edu/hit/ices/yang/problem/PrintFromTopToBottom.java)
 23. 二叉搜索树的后序遍历序列：[VerifySquenceOfBST.java](/src/cn/edu/hit/ices/yang/problem/VerifySquenceOfBST.java)
 24. 二叉树中和为某一值的路径：[FindPath.java](/src/cn/edu/hit/ices/yang/problem/FindPath.java)
+25. 二叉树中和为某一值的路径：[CloneRandomList.java](/src/cn/edu/hit/ices/yang/problem/CloneRandomList.java)
