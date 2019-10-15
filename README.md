@@ -25,3 +25,7 @@
 17. 顺时针打印矩阵：[PrintMatrix.java](/src/cn/edu/hit/ices/yang/problem/PrintMatrix.java)
 18. 栈的压入、弹出序列：[IsPopOrder.java](/src/cn/edu/hit/ices/yang/problem/IsPopOrder.java)
 19. 包含min函数的栈：[MinStack.java](/src/cn/edu/hit/ices/yang/problem/MinStack.java)
+20. 二叉树的镜像：[MirrorTree.java](/src/cn/edu/hit/ices/yang/problem/MirrorTree.java)
+21. 树的子结构：[HasSubtree.java](/src/cn/edu/hit/ices/yang/problem/HasSubtree.java)
+22. 从上往下打印二叉树：[PrintFromTopToBottom.java](/src/cn/edu/hit/ices/yang/problem/PrintFromTopToBottom.java)
+23. 二叉搜索树的后序遍历序列：[VerifySquenceOfBST.java](/src/cn/edu/hit/ices/yang/problem/VerifySquenceOfBST.java)
