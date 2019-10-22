@@ -32,3 +32,4 @@
 24. 二叉树中和为某一值的路径：[FindPath.java](/src/cn/edu/hit/ices/yang/problem/FindPath.java)
 25. 复杂链表的复制：[CloneRandomList.java](/src/cn/edu/hit/ices/yang/problem/CloneRandomList.java)
 25. 二叉搜索树与双向链表：[Convert.java](/src/cn/edu/hit/ices/yang/problem/Convert.java)
+25. 字符串的排列：[Permutation.java](/src/cn/edu/hit/ices/yang/problem/Permutation.java)
