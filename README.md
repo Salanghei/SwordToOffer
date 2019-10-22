@@ -33,3 +33,4 @@
 25. 复杂链表的复制：[CloneRandomList.java](/src/cn/edu/hit/ices/yang/problem/CloneRandomList.java)
 25. 二叉搜索树与双向链表：[Convert.java](/src/cn/edu/hit/ices/yang/problem/Convert.java)
 25. 字符串的排列：[Permutation.java](/src/cn/edu/hit/ices/yang/problem/Permutation.java)
+25. 数组中出现次数超过一半的数字：[MoreThanHalfNum.java](/src/cn/edu/hit/ices/yang/problem/MoreThanHalfNum.java)
