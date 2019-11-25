@@ -36,3 +36,6 @@
 28. 数组中出现次数超过一半的数字：[MoreThanHalfNum.java](/src/cn/edu/hit/ices/yang/problem/MoreThanHalfNum.java)
 29. 最小的k个数：[GetLeastNumbers.java](/src/cn/edu/hit/ices/yang/problem/GetLeastNumbers.java)
 30. 连续子数组的最大和：[FindGreatestSumOfSubArray.java](/src/cn/edu/hit/ices/yang/problem/FindGreatestSumOfSubArray.java)
+31. 整数中1出现的次数：[NumberOf1Between1AndN.java](/src/cn/edu/hit/ices/yang/problem/NumberOf1Between1AndN.java)
+32. 把数组排成最小的数：[PrintMinNumber.java](/src/cn/edu/hit/ices/yang/problem/PrintMinNumber.java)
+33. 丑数：[GetUglyNumber.java](/src/cn/edu/hit/ices/yang/problem/GetUglyNumber.java)
