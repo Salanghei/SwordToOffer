@@ -39,3 +39,4 @@
 31. 整数中1出现的次数：[NumberOf1Between1AndN.java](/src/cn/edu/hit/ices/yang/problem/NumberOf1Between1AndN.java)
 32. 把数组排成最小的数：[PrintMinNumber.java](/src/cn/edu/hit/ices/yang/problem/PrintMinNumber.java)
 33. 丑数：[GetUglyNumber.java](/src/cn/edu/hit/ices/yang/problem/GetUglyNumber.java)
+34. 第一个只出现一次的字符：[FirstNotRepeatingChar.java](/src/cn/edu/hit/ices/yang/problem/FirstNotRepeatingChar.java)
