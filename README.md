@@ -40,3 +40,4 @@
 32. 把数组排成最小的数：[PrintMinNumber.java](/src/cn/edu/hit/ices/yang/problem/PrintMinNumber.java)
 33. 丑数：[GetUglyNumber.java](/src/cn/edu/hit/ices/yang/problem/GetUglyNumber.java)
 34. 第一个只出现一次的字符：[FirstNotRepeatingChar.java](/src/cn/edu/hit/ices/yang/problem/FirstNotRepeatingChar.java)
+35. 数组中的逆序对数：[InversePairs.java](/src/cn/edu/hit/ices/yang/problem/InversePairs.java)
