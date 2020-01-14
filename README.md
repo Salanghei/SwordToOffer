@@ -47,3 +47,4 @@
 39. 平衡二叉树：[IsBalanced_Solution.java](/src/cn/edu/hit/ices/yang/problem/IsBalanced_Solution.java)
 40. 数组中只出现一次的数字：[FindNumsAppearOnce.java](/src/cn/edu/hit/ices/yang/problem/FindNumsAppearOnce.java)
 41. 和为s的连续正整数序列：[FindContinuousSequence.java](/src/cn/edu/hit/ices/yang/problem/FindContinuousSequence.java)
+42. 和为s的两个数字：[FindNumbersWithSum.java](/src/cn/edu/hit/ices/yang/problem/FindNumbersWithSum.java)
