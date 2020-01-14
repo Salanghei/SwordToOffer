@@ -13,7 +13,7 @@ import cn.edu.hit.ices.yang.model.TreeNode;
 public class TreeDepth {
     public int solution(TreeNode root){
         int depth = lastOrderTree(root);
-        return depth - 1;
+        return depth;
     }
 
     private int lastOrderTree(TreeNode root){
@@ -22,7 +22,7 @@ public class TreeDepth {
             int depthRight = lastOrderTree(root.right) + 1;
             return depthLeft > depthRight ? depthLeft : depthRight;
         }else{
-            return 1;
+            return 0;
         }
     }
 }
