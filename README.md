@@ -45,3 +45,4 @@
 37. 数字在排序数组中出现的次数：[GetNumberOfK.java](/src/cn/edu/hit/ices/yang/problem/GetNumberOfK.java)
 38. 二叉树的深度：[TreeDepth.java](/src/cn/edu/hit/ices/yang/problem/TreeDepth.java)
 39. 平衡二叉树：[IsBalanced_Solution.java](/src/cn/edu/hit/ices/yang/problem/IsBalanced_Solution.java)
+40. 数组中只出现一次的数字：[FindNumsAppearOnce.java](/src/cn/edu/hit/ices/yang/problem/FindNumsAppearOnce.java)
