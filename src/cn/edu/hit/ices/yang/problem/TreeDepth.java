@@ -12,14 +12,14 @@ import cn.edu.hit.ices.yang.model.TreeNode;
  */
 public class TreeDepth {
     public int solution(TreeNode root){
-        int depth = preOrderTree(root);
+        int depth = lastOrderTree(root);
         return depth - 1;
     }
 
-    private int preOrderTree(TreeNode root){
+    private int lastOrderTree(TreeNode root){
         if(root != null){
-            int depthLeft = preOrderTree(root.left) + 1;
-            int depthRight = preOrderTree(root.right) + 1;
+            int depthLeft = lastOrderTree(root.left) + 1;
+            int depthRight = lastOrderTree(root.right) + 1;
             return depthLeft > depthRight ? depthLeft : depthRight;
         }else{
             return 1;
