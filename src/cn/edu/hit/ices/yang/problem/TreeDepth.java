@@ -18,9 +18,9 @@ public class TreeDepth {
 
     private int lastOrderTree(TreeNode root){
         if(root != null){
-            int depthLeft = lastOrderTree(root.left) + 1;
-            int depthRight = lastOrderTree(root.right) + 1;
-            return depthLeft > depthRight ? depthLeft : depthRight;
+            int depthLeft = lastOrderTree(root.left);
+            int depthRight = lastOrderTree(root.right);
+            return depthLeft > depthRight ? depthLeft + 1 : depthRight + 1;
         }else{
             return 0;
         }
