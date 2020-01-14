@@ -44,3 +44,4 @@
 36. 两个链表的第一个公共节点：[FindFirstCommonNode.java](/src/cn/edu/hit/ices/yang/problem/FindFirstCommonNode.java)
 37. 数字在排序数组中出现的次数：[GetNumberOfK.java](/src/cn/edu/hit/ices/yang/problem/GetNumberOfK.java)
 38. 二叉树的深度：[TreeDepth.java](/src/cn/edu/hit/ices/yang/problem/TreeDepth.java)
+39. 平衡二叉树：[IsBalanced_Solution.java](/src/cn/edu/hit/ices/yang/problem/IsBalanced_Solution.java)
