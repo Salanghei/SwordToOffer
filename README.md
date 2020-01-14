@@ -42,3 +42,4 @@
 34. 第一个只出现一次的字符：[FirstNotRepeatingChar.java](/src/cn/edu/hit/ices/yang/problem/FirstNotRepeatingChar.java)
 35. 数组中的逆序对数：[InversePairs.java](/src/cn/edu/hit/ices/yang/problem/InversePairs.java)
 36. 两个链表的第一个公共节点：[FindFirstCommonNode.java](/src/cn/edu/hit/ices/yang/problem/FindFirstCommonNode.java)
+37. 数字在排序数组中出现的次数：[GetNumberOfK.java](/src/cn/edu/hit/ices/yang/problem/GetNumberOfK.java)
