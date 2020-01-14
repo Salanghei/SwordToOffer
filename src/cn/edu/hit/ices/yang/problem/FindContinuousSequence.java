@@ -15,7 +15,7 @@ import java.util.ArrayList;
  * 解题思路：
  * 假设连续k个整数的和为sum，可求出这些整数的平均值是sum/k
  * 如果k是奇数，sum/k就是这k个数的中间数，sum/k必为整数，即可得到一个序列；
- * 如果k是偶数，sum/k就是这k个数中间两个数的平均数，sum/k必为整数或者小数位为0.5的数，即可得到一个序列；
+ * 如果k是偶数，sum/k就是这k个数中间两个数的平均数，sum/k必为小数位为0.5的数，即可得到一个序列；
  * 最后检测得到的序列相加是否为sum
  */
 public class FindContinuousSequence {
@@ -24,29 +24,25 @@ public class FindContinuousSequence {
         if(sum <= 0){
             return result;
         }
-        for(int i = sum; i >= 2; i --){
-            double avgDouble = sum / i;
+        for(int i = sum; i >= (sum % 2 == 1 ? 2 : 3); i --){
+            float avgDouble = sum / i;
             int avgInt = sum / i;
             int start = 0;
             if(i % 2 == 1){
-                if(avgDouble - avgInt == 0){
+                if(avgInt * i == sum){
                     start = avgInt - i / 2;
                 }
             }else{
-                if((avgDouble - avgInt) * 2 == 0){
+                if(avgInt * i + i / 2 == sum){
                     start = avgInt - i / 2 + 1;
                 }
             }
             if(start > 0) {
                 ArrayList<Integer> temp = new ArrayList<>();
-                int sumTemp = 0;
                 for (int j = start; j < start + i; j++) {
-                    sumTemp += j;
                     temp.add(j);
                 }
-                if(sumTemp == sum) {
-                    result.add(temp);
-                }
+                result.add(temp);
             }
         }
         return result;
