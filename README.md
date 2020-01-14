@@ -41,3 +41,4 @@
 33. 丑数：[GetUglyNumber.java](/src/cn/edu/hit/ices/yang/problem/GetUglyNumber.java)
 34. 第一个只出现一次的字符：[FirstNotRepeatingChar.java](/src/cn/edu/hit/ices/yang/problem/FirstNotRepeatingChar.java)
 35. 数组中的逆序对数：[InversePairs.java](/src/cn/edu/hit/ices/yang/problem/InversePairs.java)
+36. 两个链表的第一个公共节点：[FindFirstCommonNode.java](/src/cn/edu/hit/ices/yang/problem/FindFirstCommonNode.java)
