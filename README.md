@@ -49,3 +49,4 @@
 41. 和为s的连续正整数序列：[FindContinuousSequence.java](/src/cn/edu/hit/ices/yang/problem/FindContinuousSequence.java)
 42. 和为s的两个数字：[FindNumbersWithSum.java](/src/cn/edu/hit/ices/yang/problem/FindNumbersWithSum.java)
 43. 左旋转字符串：[LeftRotateString.java](/src/cn/edu/hit/ices/yang/problem/LeftRotateString.java)
+44. 扑克牌顺子：[IsContinuous.java](/src/cn/edu/hit/ices/yang/problem/IsContinuous.java)
