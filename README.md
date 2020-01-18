@@ -48,3 +48,4 @@
 40. 数组中只出现一次的数字：[FindNumsAppearOnce.java](/src/cn/edu/hit/ices/yang/problem/FindNumsAppearOnce.java)
 41. 和为s的连续正整数序列：[FindContinuousSequence.java](/src/cn/edu/hit/ices/yang/problem/FindContinuousSequence.java)
 42. 和为s的两个数字：[FindNumbersWithSum.java](/src/cn/edu/hit/ices/yang/problem/FindNumbersWithSum.java)
+43. 左旋转字符串：[LeftRotateString.java](/src/cn/edu/hit/ices/yang/problem/LeftRotateString.java)
