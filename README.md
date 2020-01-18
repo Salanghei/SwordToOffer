@@ -50,3 +50,4 @@
 42. 和为s的两个数字：[FindNumbersWithSum.java](/src/cn/edu/hit/ices/yang/problem/FindNumbersWithSum.java)
 43. 左旋转字符串：[LeftRotateString.java](/src/cn/edu/hit/ices/yang/problem/LeftRotateString.java)
 44. 扑克牌顺子：[IsContinuous.java](/src/cn/edu/hit/ices/yang/problem/IsContinuous.java)
+45. 孩子们的游戏（圆圈中最后剩下的数）：[LastRemaining_Solution.java](/src/cn/edu/hit/ices/yang/problem/LastRemaining_Solution.java)
