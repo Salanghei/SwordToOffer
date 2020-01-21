@@ -52,3 +52,4 @@
 44. 扑克牌顺子：[IsContinuous.java](/src/cn/edu/hit/ices/yang/problem/IsContinuous.java)
 45. 孩子们的游戏（圆圈中最后剩下的数）：[LastRemaining_Solution.java](/src/cn/edu/hit/ices/yang/problem/LastRemaining_Solution.java)
 46. 不用加减乘除做加法：[Add.java](/src/cn/edu/hit/ices/yang/problem/Add.java)
+47. 把字符串转换为正数：[StrToInt.java](/src/cn/edu/hit/ices/yang/problem/StrToInt.java)
