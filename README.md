@@ -51,3 +51,4 @@
 43. 左旋转字符串：[LeftRotateString.java](/src/cn/edu/hit/ices/yang/problem/LeftRotateString.java)
 44. 扑克牌顺子：[IsContinuous.java](/src/cn/edu/hit/ices/yang/problem/IsContinuous.java)
 45. 孩子们的游戏（圆圈中最后剩下的数）：[LastRemaining_Solution.java](/src/cn/edu/hit/ices/yang/problem/LastRemaining_Solution.java)
+46. 不用加减乘除做加法：[Add.java](/src/cn/edu/hit/ices/yang/problem/Add.java)
