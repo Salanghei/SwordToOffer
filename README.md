@@ -57,3 +57,5 @@
 49. 构建乘积数组：[Multiply.java](/src/cn/edu/hit/ices/yang/problem/Multiply.java)
 50. 正则表达式匹配：[Match.java](/src/cn/edu/hit/ices/yang/problem/Match.java)
 51. 表示数值的字符串：[IsNumeric.java](/src/cn/edu/hit/ices/yang/problem/IsNumeric.java)
+52. 字符流中第一个不重复的字符：[FirstAppearingOnce.java](/src/cn/edu/hit/ices/yang/problem/FirstAppearingOnce.java)
+53. 链表中环的入口节点：[EntryNodeOfLoop.java](/src/cn/edu/hit/ices/yang/problem/EntryNodeOfLoop.java)
