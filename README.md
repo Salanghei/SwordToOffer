@@ -56,3 +56,4 @@
 48. 数组中重复的数字：[Duplicate.java](/src/cn/edu/hit/ices/yang/problem/Duplicate.java)
 49. 构建乘积数组：[Multiply.java](/src/cn/edu/hit/ices/yang/problem/Multiply.java)
 50. 正则表达式匹配：[Match.java](/src/cn/edu/hit/ices/yang/problem/Match.java)
+51. 表示数值的字符串：[IsNumeric.java](/src/cn/edu/hit/ices/yang/problem/IsNumeric.java)
