@@ -60,3 +60,4 @@
 52. 字符流中第一个不重复的字符：[FirstAppearingOnce.java](/src/cn/edu/hit/ices/yang/problem/FirstAppearingOnce.java)
 53. 链表中环的入口节点：[EntryNodeOfLoop.java](/src/cn/edu/hit/ices/yang/problem/EntryNodeOfLoop.java)
 54. 删除链表中重复的节点：[DeleteDuplication.java](/src/cn/edu/hit/ices/yang/problem/DeleteDuplication.java)
+55. 二叉树的下一个节点：[GetNext.java](/src/cn/edu/hit/ices/yang/problem/GetNext.java)
