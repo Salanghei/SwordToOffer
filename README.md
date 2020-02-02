@@ -62,3 +62,4 @@
 54. 删除链表中重复的节点：[DeleteDuplication.java](/src/cn/edu/hit/ices/yang/problem/DeleteDuplication.java)
 55. 二叉树的下一个节点：[GetNext.java](/src/cn/edu/hit/ices/yang/problem/GetNext.java)
 56. 对称的二叉树：[IsSymmetrical.java](/src/cn/edu/hit/ices/yang/problem/IsSymmetrical.java)
+57. 按之字形打印二叉树：[PrintTree.java](/src/cn/edu/hit/ices/yang/problem/PrintTree.java)
