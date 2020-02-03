@@ -66,3 +66,4 @@
 58. 把二叉树打印成多行：[PrintTree2.java](/src/cn/edu/hit/ices/yang/problem/PrintTree2.java)
 59. 序列化二叉树：[SerializeTree.java](/src/cn/edu/hit/ices/yang/problem/SerializeTree.java)
 60. 二叉搜索树的第k个节点：[KthNode.java](/src/cn/edu/hit/ices/yang/problem/KthNode.java)
+61. 数据流中的中位数：[GetMedianInStream.java](/src/cn/edu/hit/ices/yang/problem/GetMedianInStream.java)
