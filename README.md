@@ -69,3 +69,4 @@
 61. 数据流中的中位数：[GetMedianInStream.java](/src/cn/edu/hit/ices/yang/problem/GetMedianInStream.java)
 62. 滑动窗口的最大值：[MaxInWindows.java](/src/cn/edu/hit/ices/yang/problem/MaxInWindows.java)
 63. 矩阵中的路径：[HasPath.java](/src/cn/edu/hit/ices/yang/problem/HasPath.java)
+64. 机器人的运动范围：[MovingCount.java](/src/cn/edu/hit/ices/yang/problem/MovingCount.java)
