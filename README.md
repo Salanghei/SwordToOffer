@@ -68,3 +68,4 @@
 60. 二叉搜索树的第k个节点：[KthNode.java](/src/cn/edu/hit/ices/yang/problem/KthNode.java)
 61. 数据流中的中位数：[GetMedianInStream.java](/src/cn/edu/hit/ices/yang/problem/GetMedianInStream.java)
 62. 滑动窗口的最大值：[MaxInWindows.java](/src/cn/edu/hit/ices/yang/problem/MaxInWindows.java)
+63. 矩阵中的路径：[HasPath.java](/src/cn/edu/hit/ices/yang/problem/HasPath.java)
